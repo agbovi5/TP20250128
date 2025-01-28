@@ -4,3 +4,5 @@ PROJET DE FUSION GIT
 
 
 - Créer 2 branches et un repository distant
+-	Créer un repository distant
+-	Connecter et faire un push à partir de chaque branche
