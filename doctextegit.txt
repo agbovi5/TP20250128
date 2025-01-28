@@ -1,0 +1,6 @@
+
+
+PROJET DE FUSION GIT
+
+
+- Créer 2 branches et un repository distant
