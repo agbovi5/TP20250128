@@ -10,4 +10,4 @@ PROJET DE FUSION GIT
 - Faire un commit sur chaque branche
 - Faire un push sur le repository distant
 - Faire un merge pour voir
-
+- Gestion des conflits avec le merge
